@@ -1,0 +1,27 @@
+body{
+    margin:0;
+}
+p{
+    margin-top:5px;
+}
+
+.footer{
+    position:fixed;
+    text-align: center;
+    color:white;
+    left:0;
+    bottom: 0;
+    width:100%;
+    background: #4d3300;
+}
+
+.image{
+    text-align: center;
+    margin-top:2.5px;
+    width:20px;
+    height: 20px;
+}
+
+footer{
+    text-align: center;
+}

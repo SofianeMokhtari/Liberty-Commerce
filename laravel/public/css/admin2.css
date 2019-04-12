@@ -1,0 +1,29 @@
+.login{
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+	margin-left:43%;
+	font-size:25px;
+}
+
+td,tr,th{
+	border:1px solid black;
+
+}
+
+tr{
+	color:green;
+}
+
+.inputlabel{
+	margin-top:20px;
+}
+
+#titlee{
+	justify-content: center;
+	margin-left:42%;
+	margin-top:1%;
+	margin-bottom: 2%;
+}

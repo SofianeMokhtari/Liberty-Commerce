@@ -1,0 +1,172 @@
+.categorie{
+    border: 5px solid #009900;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top:5%;
+    text-align: center;
+}
+
+.catego{
+	color:green;
+}
+.center {
+    text-align:center;
+}
+
+section{
+    margin-bottom: 60px;
+    margin-right:75px;
+    background:#4d3300;
+    border:1px solid green;
+    max-height: auto;
+    display:inline-block;
+    text-align: center;
+}
+
+.imagecata{
+    width:150px;
+    height:150px;
+}
+
+.imagecata:hover{
+    transition:0.6s;
+    transition-delay: 250ms;
+    width:200px;
+    height:175px;
+}
+
+p{
+    color:white;
+    margin:0;
+}
+
+input[type=button]{
+    font-size:15px;
+    border:1px solid #995c00;
+    background: #cc7a00;
+    color:white;
+}
+
+input[type=button]:hover{
+    border:1px solid #4d3300;
+    color:#4d3300;
+    background:white;
+
+}
+
+input[type=checkbox] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+}
+input[type=checkbox] {
+    vertical-align: middle;
+    height: 15px;
+    width: 15px;
+    background: #fff;
+    border: 1px solid #ccc;
+}
+
+input[type="checkbox"]:checked {
+    background: red;
+    margin:0px;
+    position: relative;
+}
+
+#search{
+    text-align:center;
+}
+
+.commande
+{
+    margin-left:5%;
+    margin-top:3%;
+    background:brown;
+    color:white;
+}
+
+.comand
+{
+    width:125px;
+    height:125px;
+}
+
+#deletecommande{
+    margin-left:45%;
+    background-color: #7A942E;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#deletecommande:hover {
+    opacity: 1;
+}
+
+#delet{
+    width: 35px;
+    height: 35px;
+}
+
+.panierb{
+    margin-top:1%;
+    margin-left:20%;
+    background:brown;
+    color:white;
+}
+
+.panierimage{
+
+    width:250px;
+    height:250px;
+}
+
+#textpanier{
+    line-height: 250px;
+    float:right;
+}
+
+#addquantity{
+    background-color: #4d3300;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#buybuy{
+    border-radius:12px 0 12px 0;
+    background: #d34836;
+    border:none;
+    color:#fff;
+    font:bold 15px Verdana;
+    padding:6px 0 6px 0;
+}
+
+.centerbuy{
+    text-align:center;
+    margin-bottom:1%;
+}
+
+#buybuy2{
+    margin-top:150%;
+    border-radius:12px 0 12px 0;
+    background: #d34836;
+    border:none;
+    color:#fff;
+    font:bold 15px Verdana;
+    padding:6px 0 6px 0;
+}

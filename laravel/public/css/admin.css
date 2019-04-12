@@ -1,0 +1,20 @@
+#back{
+	background: white;
+	margin-top:3%;
+}
+
+.isadmin{
+	
+	margin-top:3%;
+	border:5px solid #cc0000;
+	color:white;
+	padding-top:20px;
+	padding-bottom: 20px;
+	background: #4d3300;
+}
+
+button{
+	font-size:20px;
+	border:none;
+	background: red;
+}

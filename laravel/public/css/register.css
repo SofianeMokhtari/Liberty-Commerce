@@ -1,0 +1,151 @@
+html{
+  background:url(img/back.jpg);
+  background-size:cover;
+  margin:0;
+  width: 100%;
+  height:100%;
+  background-repeat: no-repeat;
+}
+
+.card-body{
+  text-align: center;
+  margin-left:47.5%;
+  margin-top:15%;
+  display:inline-block;
+  opacity:0.7;
+  background:#8e5e34;
+
+}
+
+a{
+  color:white;
+}
+
+a:hover{
+  color:#009900;
+}
+
+
+.nav-item{
+  list-style: none;
+}
+
+ul,h1{
+  margin: 0;
+  padding:0;
+  display:flex;
+  list-style:none;
+}
+
+li{
+  font-size: 16px;
+  margin-left: 250px;
+  margin-right: -200px;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+}
+
+a:hover{
+  color:  #cc0000;
+}
+
+.menu ,.navbar-nav ,.ml-auto{
+  line-height:40px;
+  background: #4d3300;
+}
+
+.navbar-nav:hover ,.ml-auto:hover ,.menu:hover{
+  transition: 0.4s;
+  background: #009900;
+}
+
+
+hr{
+  border:2px solid #4d3300;
+}
+
+.btn{
+  width:75px;
+  height: 30px;
+  background: #4d3300;
+  border:none;
+}
+
+.btn:hover{
+  color:white;
+  background:#009900;
+}
+
+.btn-email{
+  width:150px;
+  height: 30px;
+}
+
+.form-group{
+  margin-bottom:5px;
+}
+
+.card-header{
+  margin-top: 10px;
+}
+
+p{
+  text-align: center;
+}
+
+.image{
+
+  margin-top:2.5px;
+  width:20px;
+  height: 20px;
+}
+
+.logout{
+  font-size:20px;
+  background:#7A942E;
+  color:white;
+}
+
+.logout:hover{
+  color:white;
+}
+
+.dropdown-menu{
+  display:flex;
+}
+
+#test{
+  margin:0;
+  background: #7A942E;
+  position: absolute;
+  right:0;
+}
+
+#navbarDropdown{
+  position: absolute;
+  right:15%;
+}
+
+strong{
+  color:white;
+}
+
+#panier{
+  margin-right:15px;
+  font-size:25px;
+}
+
+#pan{
+  margin:0;
+  padding:0;
+  width:40px;
+  height:40px;
+  margin-right:-150px;
+}
+
+#compter{
+  margin-right:15px;
+}
